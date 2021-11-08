@@ -1,0 +1,9 @@
+'''leetcode：
+      剑指offer计划 Day7~Day13
+学习pytorch框架：
+      实现线性模型、梯度下降等
+学习NLP经典模型Word2Vec：
+      阅读原作者论文：1、Distributed Representations of Sentences and Documents
+                    2、Efficient Estimation of Word Representations in Vector Space
+      知乎“秒懂词向量Word2vec的本质”：https://zhuanlan.zhihu.com/p/26306795/
+'''
