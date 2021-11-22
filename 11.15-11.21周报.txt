@@ -1,0 +1,8 @@
+#学习pytorch深度学习框架lesson9~lesson13
+#实战演练kaggle项目：
+     #Titanic
+     #Otto group product classification
+#Leetcode:剑指offer学习计划Day21~day27
+#阅读：
+     #总结、阅读一些硕士、博士论文的摘要
+     #从ACL2019年会看自然语言处理未来发展趋势
