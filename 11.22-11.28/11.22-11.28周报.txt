@@ -1,0 +1,6 @@
+#学习《动手学深度学习》5节课程：softmax回归、多层感知机等
+#kaggle实战：
+    #califonia house price
+    #修改、完善之前的项目
+#leetcode:完成剑指Offer学习计划
+#阅读：公众号文章（总结见文档）
