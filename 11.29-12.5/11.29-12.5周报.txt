@@ -1,0 +1,8 @@
+#学习《动手学深度学习》51~59节：序列模型、文本预处理等
+#leetcode每日一练
+#阅读论文：
+    #A Survey of Natural Language Generation Technique
+    #基于自然语言处理的问答系统综述
+    #问答系统研究综述————吴灵慧
+    #问答系统研究综述————毛先领
+#写开题报告
