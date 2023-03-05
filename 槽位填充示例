@@ -1,7 +1,7 @@
 "定义":{
     "slot_list":["Disease"],
     "slot_values":None,
-    "cql":"MATCH(p:疾病) WHERE p.name='{Disease}' RETURN p.desc",
+    "cql":"MATCH(p:Disease) WHERE p.name='{Disease}' RETURN p.desc",
     "reply":"'{Disease}'是这样的:\n",
     "ask":"您想问的是'{Disease}'的定义吗？",
 }
@@ -9,8 +9,8 @@
 semantic_parser:
 {
     'slot_list':["Disease"],
-    'slot_values':['Disease':'流感'],
-    'cql':"MATCH(p:疾病) WHERE p.name='{Disease}' RETURN p.desc",
-    'reply':"'流感'是这样的:\n",
+    'slot_values':['Disease':'肺泡蛋白质沉积症'],
+    'cql':"MATCH(p:Disease) WHERE p.name='{Disease}' RETURN p.desc",
+    'reply':"'{Disease}'是这样的:\n",
     'ask':"您想问的是'{Disease}'的定义吗？",
 }
